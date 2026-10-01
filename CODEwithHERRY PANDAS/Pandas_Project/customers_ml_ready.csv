@@ -1,0 +1,6 @@
+cust_id,monthly_spend,tenure_days,is_high_value,plan_Basic,plan_Premium
+1,2450.5,880,0,0,1
+2,1200.0,579,0,1,0
+3,3100.0,1014,1,1,0
+4,2410.3125,173,0,1,0
+5,2890.75,407,1,0,1
